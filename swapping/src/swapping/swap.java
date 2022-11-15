@@ -4,7 +4,7 @@ public class swap {
 
 	public static void main(String[] args) 
 	{
-		
+		//hello
 		
         Scanner sc = new Scanner(System.in);  // read input from the input stream
        //Define variable//
